@@ -1,0 +1,68 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+}
+
+main {
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between; /* Pushes the lists to opposite sides */
+  align-items: stretch;
+  width: 100%;
+}
+
+.top-menu .dropdown-toggle
+{
+    color:black !important;
+}
+
+.nav
+{
+    list-style-type: none;
+}
+
+.nav-justify-content-end
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end; 
+}
+
+body
+{
+    background-color:white !important;
+}
+
+.title
+{
+    font-family:"Playfair Display", serif;
+    font-style:italic;
+}
+
+.text
+{
+    font-family:"Libre Baskerville", serif;
+}
+
+.footer
+{
+    color:black;
+    background-color:#ECE4DA;
+}
+
+.footer .vogue-text {
+    font-family: "Didot", "Bodoni MT", "Cochin", Georgia, serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+}
+
+.footer .copyright{
+    color:#B9A590;
+}
