@@ -1,21 +1,14 @@
 @import 'bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
 
-html, body {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  min-height: 100vh;
-}
-
-main {
-  width: 100%;
-}
-
-.container {
-  display: flex;
-  justify-content: space-between; /* Pushes the lists to opposite sides */
-  align-items: stretch;
-  width: 100%;
+html, body, main {
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 100% !important;
+  background-color:white !important;
 }
 
 .top-menu .dropdown-toggle
@@ -35,26 +28,31 @@ main {
     justify-content: flex-end; 
 }
 
-body
+.hike-background
 {
-    background-color:white !important;
+    background-image:url('/images/palmtrail-kahuku.jpg') !important;
+    background-position: center !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    opacity: 0.7;
 }
 
 .title
 {
-    font-family:"Playfair Display", serif;
-    font-style:italic;
+    font-family:"Special Elite", serif;
+    color:black;
 }
 
 .text
 {
-    font-family:"Libre Baskerville", serif;
+    font-family:"Yeseva One", serif;
+    color:black;
 }
 
 .footer
 {
     color:black;
-    background-color:#ECE4DA;
+    background-color:white;
 }
 
 .footer .vogue-text {
