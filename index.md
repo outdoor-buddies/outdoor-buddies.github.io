@@ -1,4 +1,4 @@
-# Bowfolios
+# Outdoor Buddies
 
 ## Table of contents
 
