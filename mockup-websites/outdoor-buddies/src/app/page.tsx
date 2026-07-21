@@ -83,8 +83,8 @@ const FooterMenu = () => (
         <Navbar expand="lg">
           <Container fluid className="d-flex justify-content-between align-items-stretch top-menu-container">
             <Nav className="flex-row ms-auto gap-3">
-              <Nav.Link><BsFacebook/> </Nav.Link>
-              <Nav.Link><BsInstagram/> </Nav.Link>
+              {/*<Nav.Link><BsFacebook/> </Nav.Link>
+              <Nav.Link><BsInstagram/> </Nav.Link>*/}
             </Nav>
           </Container>
         </Navbar>
