@@ -50,12 +50,13 @@ View the Outside Buddies Organization [here](https://github.com/outdoor-buddies)
 
 View the Outside Buddies Development Page Repository [here](https://github.com/outdoor-buddies/outdoor-buddies.github.io)
 
-View the Outside Buddies Project Repository [here](https://github.com/outdoor-buddies/my-nextjs-application)
+View the Outside Buddies Project Repository [here](https://github.com/outdoor-buddies/outdoor-buddies)
 
 ### Deployment
 
-To make Outdoor Buddies easily accessible to anyone, our application is actively being developed and is deployed via Vercel.  
-[View Outdoor Buddies Live!](https://outdoor-buddies-green.vercel.app/)
+To make Outdoor Buddies easily accessible to anyone, our application is actively being developed and is deployed via Vercel.
+
+[View Outdoor Buddies Live!](https://my-nextjs-application-green.vercel.app/)
 
 ___
 ## User Guide
