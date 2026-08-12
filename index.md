@@ -56,7 +56,7 @@ View the Outside Buddies Project Repository [here](https://github.com/outdoor-bu
 
 To make Outdoor Buddies easily accessible to anyone, our application is actively being developed and is deployed via Vercel.
 
-[View Outdoor Buddies Live!](https://my-nextjs-application-green.vercel.app/)
+[View Outdoor Buddies Live!](https://outdoor-buddies-green.vercel.app/)
 
 ___
 ## User Guide
